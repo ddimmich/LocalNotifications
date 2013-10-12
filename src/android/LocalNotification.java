@@ -9,8 +9,8 @@ import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
 import android.util.Log;
 
-import org.apache.cordova.api.Plugin;
-import org.apache.cordova.api.PluginResult;
+import org.apache.cordova.Plugin;
+import org.apache.cordova.PluginResult;
 
 /**
  * This plugin utilizes the Android AlarmManager in combination with StatusBar
